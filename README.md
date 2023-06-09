@@ -2,25 +2,25 @@
 
 ![](https://imgur.com/gpMfn6n.png)
 
-## Overview
+//## Overview
 Grumpy cat is looking for a new job and needs a resume! Using what you know about HTML, help him by creating a resume website for him. (Note: You don't need to know 'real information' about Grumpy Cat -- just make things up!)
 
-## Getting Started
+//## Getting Started
 - `Fork` and `clone` this repository
 - `cd` into the directory on your local machine
 - Create an `index.html`file 
 
 
-This is what he wants you to include and do for his resume:
+//This is what he wants you to include and do for his resume:
 
-- have an `index.html` file
+//- have an `index.html` file
 
-- have HTML `boilerplate` code for `index.html`
+//- have HTML `boilerplate` code for `index.html`
   - _HINT:_ in your `index.html` file type `html` or `!` and press tab. A few basic HTML tags should populate your file, including `head` and `body`
 - Include:
-  - at least one header
-  - navigation (these can be dummy links that don't go anywhere yet)
-  - at least one list
+  //- at least one header
+  //- navigation (these can be dummy links that don't go anywhere yet)
+  //- at least one list
 
 
 
@@ -41,14 +41,14 @@ Your commit message should read something like: <br>
 
 ## Bonus
 
-1. Insert a video of grumpy cat's work or his favorite YouTube video ('iframe' tag)
-1. Add a level-three heading above his video with a title for the section
-1. Insert a table with his contact info (`table` tag)
-1. Add a level-three heading above his contact info with a title for the section
+//1. Insert a video of grumpy cat's work or his favorite YouTube video ('iframe' tag)
+//1. Add a level-three heading above his video with a title for the section
+//1. Insert a table with his contact info (`table` tag)
+//1. Add a level-three heading above his contact info with a title for the section
 
 
-1. Using HTML, insert a short blurb or biography with "p" tags
-1. Using HTML, insert a short description above your "p" tag; use an "h3" tag
+//1. Using HTML, insert a short blurb or biography with "p" tags
+//1. Using HTML, insert a short description above your "p" tag; use an "h3" tag
 
 
 1. Insert another image of grumpy cat, or an image of one of his coworkers and team
