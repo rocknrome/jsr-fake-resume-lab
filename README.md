@@ -1,3 +1,7 @@
+HTML only webpage.
+
+Result: https://rocknrome.github.io/jsr-fake-resume-lab/
+
 # Grumpy Cat needs a J-O-B!
 
 ![](https://imgur.com/gpMfn6n.png)
